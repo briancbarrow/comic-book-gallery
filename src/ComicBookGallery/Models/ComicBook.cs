@@ -21,9 +21,7 @@ namespace ComicBookGallery.Models
                 return SeriesTitle + " #" + IssueNumber;
             }
         }
-
-        // Series-tot;e-issuenumber.jpg
-
+        
         public string CoverImageFileName
         {
             get
